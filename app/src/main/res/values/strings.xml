@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArctionBarSearchViewer</string>
+    <string-array name="array_country">
+        <item> David Gay</item>
+        <item> David Viado</item>
+        <item> David Baitola</item>
+        <item> David FDP </item>
+    </string-array>
+</resources>
